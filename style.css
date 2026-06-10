@@ -68,7 +68,7 @@ body {
   position: bottom;
   height: 250.2px;
   background-color: rgb(0, 0, 0);
-  background-image: url(https://sertifikasibnspku.com/wp-content/uploads/2025/02/BNSP-Microsoft-Office-Header.webp);
+  background-image: src= "BNSP-Microsoft-Office-Header.webp";
 
   background-size: cover;
   box-sizing: border-box;
